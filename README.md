@@ -1,6 +1,6 @@
 # 📊 VBA Code - Project 2 - Excel Report Automation (VBA)
 
-This repository contains an example of VBA code used to automate the reporting of market data.
+This repository contains an example of VBA code used to automate the reporting of telecom data.
 
 ## 📁 Structure
 
